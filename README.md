@@ -1,3 +1,1 @@
-# JacobsGH.github.io
-<!DOCTYPE html>
-<a href="main.html"  >Главная</a>
+<a href="main.html"  >Контроль версий</a>
